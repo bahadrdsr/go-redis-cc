@@ -1,0 +1,13 @@
+# Ignore VSCode files
+.vscode/
+
+# Ignore Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Ignore Go build output
+/bin/
+/pkg/
